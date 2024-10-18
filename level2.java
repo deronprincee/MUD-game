@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class level2 {
-
+     
     settings settings=new settings(); //oblect to call methods from 'settings' class
 
     public void spirits () { //method to fight the spirits

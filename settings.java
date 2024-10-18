@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 public class settings {
-    
+      
     //public static final means that the variable will be accessible to all the casses and all the instances of a class. Once initialised, the value will not change
     public static final String ANSI_RESET = "\u001B[0m";   //set text colour of the game title 
     public static final String ANSI_PURPLE = "\u001B[35m";   //Geeks fro Geeks. Available at: https://www.geeksforgeeks.org/how-to-print-colored-text-in-java-console/ 

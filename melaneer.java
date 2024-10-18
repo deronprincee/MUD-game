@@ -1,6 +1,6 @@
 import java.util.*;
 public class melaneer {
-    
+      
     static int choice;
 
     melaneer (int x) {   //constructor to initize high score to zero

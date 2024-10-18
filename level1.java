@@ -100,7 +100,7 @@ public class level1 {
 
         int attempts=4; //variable shows how many attempts are left
         final String answer="melaneer"; //the answer is melaneer. This variable can not be changed once initialised.
-        
+          
         while (attempts>0) {
             
             String command=scan.nextLine();

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+  
 public class level3 {
 
     public void finalChallenge (String name) { //method to describe the final part of the game.
